@@ -65,6 +65,8 @@ Finance Fusion is a comprehensive financial management application that helps us
 ![image](https://github.com/amitprasad1403/financefusion-admin/blob/main/FF4.png)
 ![image](https://github.com/amitprasad1403/financefusion-admin/blob/main/FF5.png)
 ![image](https://github.com/amitprasad1403/financefusion-admin/blob/main/FF6.png)
+![image](https://github.com/amitprasad1403/financefusion-admin/blob/main/FF7png)
+![image](https://github.com/amitprasad1403/financefusion-admin/blob/main/FF8.png)
 
 
  
