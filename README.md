@@ -59,14 +59,14 @@ Finance Fusion is a comprehensive financial management application that helps us
 
 ## App preview
 
-![image](https://github.com/amitprasad1403/financefusion-admin/blob/main/FF1.png)
-![image](https://github.com/amitprasad1403/financefusion-admin/blob/main/FF2.png)
-![image](https://github.com/amitprasad1403/financefusion-admin/blob/main/FF3.png)
-![image](https://github.com/amitprasad1403/financefusion-admin/blob/main/FF4.png)
-![image](https://github.com/amitprasad1403/financefusion-admin/blob/main/FF5.png)
-![image](https://github.com/amitprasad1403/financefusion-admin/blob/main/FF6.png)
-![image](https://github.com/amitprasad1403/financefusion-admin/blob/main/FF7png)
-![image](https://github.com/amitprasad1403/financefusion-admin/blob/main/FF8.png)
+![image](https://github.com/amitprasad1403/financefusion/blob/main/FF1.png)
+![image](https://github.com/amitprasad1403/financefusion/blob/main/FF2.png)
+![image](https://github.com/amitprasad1403/financefusion/blob/main/FF3.png)
+![image](https://github.com/amitprasad1403/financefusion/blob/main/FF4.png)
+![image](https://github.com/amitprasad1403/financefusion/blob/main/FF5.png)
+![image](https://github.com/amitprasad1403/financefusion/blob/main/FF6.png)
+![image](https://github.com/amitprasad1403/financefusion/blob/main/FF7png)
+![image](https://github.com/amitprasad1403/financefusion/blob/main/FF8.png)
 
 
  
